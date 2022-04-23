@@ -1,0 +1,3 @@
+C:/Users/Kanak/Desktop/labaa3/laba3/build/CMakeFiles/String.dir
+C:/Users/Kanak/Desktop/labaa3/laba3/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Kanak/Desktop/labaa3/laba3/build/CMakeFiles/ZERO_CHECK.dir
